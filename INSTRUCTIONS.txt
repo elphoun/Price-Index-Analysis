@@ -1,0 +1,4 @@
+All data used in this project was taken fro, https://www.worldbank.org/en/research/brief/inflation-database
+
+The code and files are specifically designed to format the CSVs in this database, and will not work with 
+other databases unless you yourself want to change the code.
